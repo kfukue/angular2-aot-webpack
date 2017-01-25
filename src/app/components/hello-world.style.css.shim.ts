@@ -5,4 +5,4 @@
  */
  /* tslint:disable */
 
-export const styles:any[] = ['h1[_ngcontent-%COMP%] {\n    font-size: 42px;\n}'];
+export const styles:any[] = ['h1[_ngcontent-%COMP%] {\r\n    font-size: 42px;\r\n}'];

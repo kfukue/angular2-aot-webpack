@@ -16,7 +16,7 @@
     "noImplicitUseStrict": false,
     "noFallthroughCasesInSwitch": true,
     "outDir": "./ngfactory",
-    "rootDir": "./src/app",
+    "rootDirs": ["./src/app", "./node_modules/@covalent"],
     "typeRoots": [ "./node_modules/@types" ],
     "types": [
       "core-js",
